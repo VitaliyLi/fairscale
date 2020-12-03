@@ -4,7 +4,7 @@
 [![CircleCI](https://circleci.com/gh/facebookresearch/fairscale.svg?style=shield)](https://app.circleci.com/pipelines/github/facebookresearch/fairscale/) ![PyPI - License](https://img.shields.io/pypi/l/fairscale) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/facebookresearch/fairscale/blob/master/CONTRIBUTING.md)
 
 ## Description
-fairscale is a PyTorch extension library for high performance and large scale training for optimizing training on one or across multiple machines/nodes. This library extend basic pytorch capabilities while adding new experimental ones.
+fairscale is a PyTorch extension library for high performance and large scale model- and data-parallel training on one or across multiple machines/nodes. This library extends basic PyTorch capabilities while adding new experimental ones.
 
 fairscale supports:
 * Parallelism:
